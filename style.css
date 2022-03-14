@@ -1,0 +1,29 @@
+body{
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.board{
+    height: 700px;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: darkgrey;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.square{
+    background-color: lightgrey;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 4px;
+    text-align: center;
+}
+
