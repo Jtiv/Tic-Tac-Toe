@@ -26,4 +26,11 @@ body{
     margin: 4px;
     text-align: center;
 }
-
+.red{
+    background-color: red;
+    border: 4px solid black;
+}
+.blue{
+    background-color: blue;
+    border: 4px solid black;
+}
